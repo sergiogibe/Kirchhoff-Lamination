@@ -1,2 +1,2 @@
 ## Kirchhoff-Lamination
-DEMO code for composite lamination failure test.
+Code for composite lamination failure test.
